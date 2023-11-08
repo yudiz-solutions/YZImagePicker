@@ -1,6 +1,12 @@
 # YZImagePicker
 
-![YZImagePicker](/Resource/PickImage.gif "Sample YZImagePicker")
+<br>
+
+<div align="left">
+  <img src="/YZImagePicker/Resource/PickImage.gif" alt="Sample YZImagePicker" style="margin-bottom: 20px;">
+</div>
+
+<br>
 
 **YZImagePicker** is a simple and easy-to-use image picker class for iOS, written in Swift. It provides a convenient way to pick images from the device's photo library or camera.
 
